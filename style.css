@@ -1,0 +1,27 @@
+body {
+  background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20200312/pngtree-seamless-pattern-with-sun-flowers-cute-hand-drawn-cartoon-childish-drawing-image_331451.jpg');
+  
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+header 
+{
+  background-color: rgb(237, 255, 234); 
+  color: rgb(0, 0, 0);
+  height: 70px;
+  padding: 10px;
+}
+
+footer 
+{
+  background-color: rgb(237, 255, 234); 
+  color: rgb(0, 0, 0);
+  height: 50px;
+  padding: 10px;
+  text-align: center;
+}
+
+.mainpage {width: 1024px; margin: 0 auto;}
+ 
+.headname {
+  color: rgb(0, 83, 51);
+}
