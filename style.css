@@ -23,8 +23,13 @@ footer
 .mainpage {width: 1024px; margin: 0 auto;}
  
 .headname1 {
-  color: rgb(0, 83, 51);
+  color: rgb(252, 151, 0);
+  font-size: 30px;
 }
 .headname2 {
   color: rgb(0, 83, 51);
+}
+
+.graphic{
+  background-image: url("images/chantaburi-cover.jpeg");
 }
