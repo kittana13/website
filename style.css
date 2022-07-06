@@ -40,3 +40,8 @@ footer
  border:1px solid rgb(167, 124, 124)
  height: 300px;
 }
+
+.top10{
+  background-color: #ccc;
+  padding: 10px;
+}
