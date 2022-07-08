@@ -5,7 +5,7 @@ body {
 }
 header 
 {
-  background-color: rgb(5, 116, 97); 
+  background-color: rgb(255, 159, 234); 
   color: rgb(255, 255, 255);
   height: 70px;
   padding: 10px;
@@ -13,7 +13,7 @@ header
 
 footer 
 {
-  background-color: rgb(5, 116, 97); 
+  background-color: rgb(255, 159, 234); 
   color: rgb(255, 255, 255);
   height: 20px;
   padding: 10px;
