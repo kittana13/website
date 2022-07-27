@@ -37,12 +37,12 @@ footer
 }
 
 .map{
- border:1px solid rgb(255, 243, 7);
+ border:1px solid rgb(255, 251, 178);
  height: 300px;
 }
 
 .top10{
-  background-color: rgb(255, 243, 7);
+  background-color: rgb(255, 251, 178);
   padding: 10px;
 }
 
@@ -52,7 +52,7 @@ footer
 }
 
 .topmenu{
-  background-color: rgb(255, 243, 7);
+  background-color: rgb(255, 251, 178);
   height: 40px;
 }
 
